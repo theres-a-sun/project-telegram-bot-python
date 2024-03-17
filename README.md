@@ -73,10 +73,9 @@ Let’s connect and interact spreadsheet using telegram!
 ## Environment Setup
 1) I using python 3.12
 2) Install the following Python packages if they are not already installed:
+   pip install python-telegram-bot google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
-pip install python-telegram-bot google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
-
-3) You need to set up a Google Sheets API: google sheet API -> ENABLED and google drive API -> ENABLED! (https://console.cloud.google.com/). Then download the credentials.json file.
-4) Share the google sheet file with email that you get from goole sheet API
-5) Set up a Telegram Bot (@BotFather) and get the API token
-6) Modify TOKEN, CREDENTIALS.JSON, ID of GOOLE SHEET in the code of main.py
+4) You need to set up a Google Sheets API: google sheet API -> ENABLED and google drive API -> ENABLED! (https://console.cloud.google.com/). Then download the credentials.json file.
+5) Share the google sheet file with email that you get from goole sheet API
+6) Set up a Telegram Bot (@BotFather) and get the API token
+7) Modify TOKEN, CREDENTIALS.JSON, ID of GOOLE SHEET in the code of main.py
