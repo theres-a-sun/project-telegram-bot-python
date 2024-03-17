@@ -13,10 +13,10 @@ Let’s connect and interact spreadsheet using telegram!
 ## Why matters
 ![Proposal_Draft_page-0004](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/3e0bc5d5-07af-42d9-8808-1222d6fa2710)
 
-## Data:
+## Example!
 ![Proposal_Draft_page-0005](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/df889263-4256-40f9-8d7b-b26457b14db2)
 
-## Example!
+## Data!
 ![Proposal_Draft_page-0006](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/ba36c57f-aede-498a-891b-3746610a88d2)
 
 ## Persona
@@ -44,3 +44,4 @@ Step 7: Employee shares a picture of the things
 Step 8: The report automatically send to email
 
 Step 9: That data for that item store on google sheets
+
