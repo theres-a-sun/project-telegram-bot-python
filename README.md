@@ -1,4 +1,4 @@
-# INTERGRATED BOT: SPREADSHEET - TELEGRAM
+![WhatsApp Image 2024-03-17 at 23 21 52_03844539](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/e2a9c5e2-d4aa-40c1-98fb-50d7cf3e14b8)# INTERGRATED BOT: SPREADSHEET - TELEGRAM
 Let’s connect and interact spreadsheet using telegram!
 
 
@@ -25,23 +25,31 @@ Let’s connect and interact spreadsheet using telegram!
 ## Solution:
 ![Proposal_Draft_page-0008](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/b3d5644f-1f08-47bd-be80-d42e1544313e)
 
-## Scenario
+## User Journey
 
 Step 1: Employee opens telegram and starts a discussion with BOT
+![WhatsApp Image 2024-03-17 at 23 21 51_012bd3b5](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/a62de762-7853-413f-bc51-6951fd0be4d4)
 
 Step 2: Employee share the departement
+![WhatsApp Image 2024-03-17 at 23 21 52_03844539](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/e632a7a8-5382-4598-85da-520bf07b1d6c)
 
-Step 3: Employee name of item pruchasing
+Step 3: Employee shares the name of item pruchasing
+![WhatsApp Image 2024-03-17 at 23 21 52_03844539](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/7fde1a8c-35e0-4180-977e-34dbdf3b43ec)
 
 Step 4: Employee shares the quantity of the item
+![WhatsApp Image 2024-03-17 at 23 21 53_d8ed5695](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/d2653e18-c742-49e7-ba71-4be094a88747)
 
-Step 5: Employee shares prices per item
+Step 5: Employee shares the prices per item
+![WhatsApp Image 2024-03-17 at 23 21 53_eaeaf938](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/9ddb07ba-2147-4339-bf80-2718c3ae15a6)
 
-Step 6: Employee shares total prices
+Step 6: Employee shares the total prices
+![WhatsApp Image 2024-03-17 at 23 21 53_dd7748e6](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/c4e355f7-f21c-429e-bbac-32cccd207f94)
 
 Step 7: Employee shares a picture of the things
+![WhatsApp Image 2024-03-17 at 23 21 54_6dd6dd85](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/9abfbc56-22b4-4d57-a7b4-14b5a35417df)
 
-Step 8: The report automatically send to email
+Step 8: Store that data on google sheets
+![image](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/7f6fc4fc-850c-49c4-8cfd-7f3832cac7d5)
 
-Step 9: That data for that item store on google sheets
-
+Step 9: The report automatically send to email!
+(COMING SOON!)
