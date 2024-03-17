@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-03-17 at 23 21 52_03844539](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/e2a9c5e2-d4aa-40c1-98fb-50d7cf3e14b8)# INTERGRATED BOT: SPREADSHEET - TELEGRAM
+# INTERGRATED BOT: SPREADSHEET - TELEGRAM
 Let’s connect and interact spreadsheet using telegram!
 
 
