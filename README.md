@@ -61,7 +61,7 @@ Let’s connect and interact spreadsheet using telegram!
 ![WhatsApp Image 2024-03-17 at 23 21 54_6dd6dd85](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/9abfbc56-22b4-4d57-a7b4-14b5a35417df)
 
 
-### Step 8: Store that data on google sheets
+### Step 8: Automatically store that data on google sheets
 
 ![image](https://github.com/theres-a-sun/project-telegram-bot-python/assets/146197184/7f6fc4fc-850c-49c4-8cfd-7f3832cac7d5)
 
